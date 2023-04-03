@@ -1,0 +1,100 @@
+Afterlife
+Amusement Park
+Arcade
+Armory
+Auction
+Auditorium
+Bank
+Barracks
+Bathhouse
+Beach
+Bordello
+Bridge
+Burrow
+Business Office
+Camping Out
+Carnival
+Castle
+Cave
+Charitable Shelter
+Church
+Control Room
+Correctional System
+Crash Site
+Crater
+Crossroads
+Dam
+Docks
+Dormitory
+Dungeon
+Farm
+Festival
+Forest
+Foundry
+Frontier
+Government Office
+Graveyard
+Headquarters
+Home 
+Hospital
+Hotel
+Hovel
+Insitution
+Island
+Junkyard
+Lair 
+Law Enforcement Office
+Landmark
+Library
+Limbo 
+Locked Out 
+Lost/Stranded
+Magic Shop
+Mansion
+Marketplace
+Maze 
+Military Installation
+Moon
+Morgue 
+Mountain
+Neutral Ground
+News Office 
+Nightclub/Rave
+Oasis
+Orphanage
+Outpost
+Park
+Parking Lot 
+Port/Transport Hub
+Public Forum
+Refuse Dump
+Resort/Spa
+Restaurant
+Restroom
+River
+Road
+Rooftop
+Ruins
+Safehouse
+School
+Sewer
+Ship
+Space 
+Stadium
+Stage 
+Store 
+Stronghold
+Suburbs
+Suburban Retail Center
+Tavern
+Theater
+Tower
+Town Square
+Underground
+Underwater
+Vehicle
+Volcano
+Warehouse
+Wilderness
+Wildlife Preserve
+Zoo

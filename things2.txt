@@ -1,0 +1,100 @@
+Armory
+Artifact
+Auditorium
+Blackmail
+Brains
+Bugs
+Burrow
+Business Office
+Cannonfodder
+Child
+Confinement
+Cover Up
+Crash Site 
+Disguise
+Docks
+Door
+Dreams
+Duel 
+Elected Official
+Election
+Elvis
+Faith
+Farm
+Festival
+Fight
+Gambling
+Government Agents
+Government Office
+Grave
+Grudge
+Guard
+Guide
+Heir 
+Heist 
+Hired Muscle
+Honor
+Horseman
+Hostage
+Hunt
+Illness
+Intrigue
+Invention
+Island
+Janitor
+Kingpin
+Lair
+Launch
+Law Enforcement
+Lawyer
+Leader
+Marketplace
+Martial Arts 
+Mask
+Mechanic
+Mercenaries
+Mindless Horde
+Mob
+Murder
+Mystery
+Natural Disaster
+Newborn
+Nightclub/Rave
+Noble
+Note 
+Park
+People
+Poison
+Political Group
+Prayer
+Prisoner
+Prostitute
+Rebels
+Red Herring
+Religious Fanatics
+Research
+Restaurant
+Revenge
+Road
+Romance
+School
+Secret
+Security Forces
+Sleep
+Soldier
+Sporting Event
+Store
+Student
+Survival
+Tavern
+Teacher
+Theater
+Town Square
+Traitor
+Travel
+Treasure
+Treaty
+Untimely Death
+Vehicle
+Warehouse
+Wedding

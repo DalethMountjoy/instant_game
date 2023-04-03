@@ -1,0 +1,100 @@
+Actor
+Advisor
+Agent 
+Anthropomorphic Object
+Aristocrat
+Artificial Intelligence
+Artisan
+Athlete
+Author
+Banker
+Bar Fly 
+Bounty Hunter
+Bully
+Cannonfodder
+Caretaker
+Carpenter
+Casanova
+Child
+Clergy
+Collector
+Common Criminal
+Concerned Parent
+Conspiracy Theorist
+Crazed Loner
+Demon
+Desperate Citizen
+Devil's Advocate
+Driver
+Eccentric Millionaire
+Elder
+Elected Official
+Expert
+Farmer
+Fixer
+Gambler
+Genius
+Government Agent
+Guard
+Guide
+Healer
+Heir
+Hired Muscle
+Historian
+Horseman
+Hostage
+Hunter
+Idiot Savant
+Immortals
+Informant
+Janitor
+Judge
+Kingpin
+Law Enforcement Officer
+Lawyer
+Leader
+Local Legend
+Magician
+Mason 
+Mechanic
+Mercenaries
+Musician
+Ninjas
+Noble
+Philosopher
+Pirate
+Prisoner
+Private Investigator
+Prophet 
+Prostitute
+Pundit
+Rebel
+Recluse
+Red Shirt
+Relative
+Religious Fanatics
+Repairman
+Robot/Automaton
+Sailor
+Salesman
+Scribe
+Security Forces
+Serial Killer
+Servant
+Shopkeep
+Slave
+Smith
+Soldier
+Speaker
+Sportsman
+Spy 
+Student 
+Swindler
+Teacher
+Technician
+Thief
+Thug  
+Troubled Youth
+Undertaker
+Vagrant
+Village Idiot

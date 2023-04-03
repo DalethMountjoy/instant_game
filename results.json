@@ -1,0 +1,76 @@
+[{
+    "setting": {
+        "Your setting": "Military Installation",
+        "Setting tone": "Tactical",
+        "Some places to include": "Orphanage, Wildlife Preserve",
+        "Two things to influence your world": "Tough  Territory & Illusory Fire ",
+        "(This is optional) Tech level": "Nuclear Power ",
+        "(This is optional) Population": "600"
+    },
+    "plot": {
+        "Here is your main opposition": "Infestation",
+        "Here are some prompts": "Lose & Virtuous Atomic Monster",
+        "Here's another prompt": "Purchase & Secret Burrow"
+    }
+},
+{
+    "setting": {
+        "Your setting": "City Under Seige",
+        "Setting tone": "Mystery",
+        "Some places to include": "Hospital, Stronghold",
+        "Two things to influence your world": "Extravagant Hotel & Sloppy Mutants/Mutations",
+        "(This is optional) Tech level": "Alchemy",
+        "(This is optional) Population": "10,000,000"
+    },
+    "plot": {
+        "Here is your main opposition": "Rebels",
+        "Here are some prompts": "Seduce & Beautiful Bogeyman",
+        "Here's another prompt": "Infiltrate & Quick Lawyer"
+    }
+},
+{
+    "setting": {
+        "Your setting": "Moon",
+        "Setting tone": "Fantasy",
+        "Some places to include": "Restaurant, Crash Site",
+        "Two things to influence your world": "Illusory Hotel & Elegant World Domination",
+        "(This is optional) Tech level": "Stone age ",
+        "(This is optional) Population": "< 10,000,000"
+    },
+    "plot": {
+        "Here is your main opposition": "Conspiracy",
+        "Here are some prompts": "Launch & Silent Werewolf",
+        "Here's another prompt": "Alert  & Flexible Auditorium"
+    }
+},
+{
+    "setting": {
+        "Your setting": "Cold War",
+        "Setting tone": "Action/Adventure",
+        "Some places to include": "Orphanage, Vehicle",
+        "Two things to influence your world": "Mobile Mass Transit & Silent Dungeon",
+        "(This is optional) Tech level": "Steampunk",
+        "(This is optional) Population": "400000"
+    },
+    "plot": {
+        "Here is your main opposition": "Traitor",
+        "Here are some prompts": "Duel & Bizzare Dragons",
+        "Here's another prompt": "Poison & Virtuous Prayer"
+    }
+},
+{
+    "setting": {
+        "Your setting": "Military Installation",
+        "Setting tone": "Tactical",
+        "Some places to include": "Warehouse, Auction",
+        "Two things to influence your world": "Reputable Street Gangs & Rigid Powers",
+        "(This is optional) Tech level": "Artifical Intelligence",
+        "(This is optional) Population": "80000"
+    },
+    "plot": {
+        "Here is your main opposition": "Demon",
+        "Here are some prompts": "Seduce & Firm Invaders/Outsiders",
+        "Here's another prompt": "Build & Polluted Fight"
+    }
+}
+]
